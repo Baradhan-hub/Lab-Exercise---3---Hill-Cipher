@@ -9,8 +9,6 @@ To write a Python program to implement the Hill Cipher encryption algorithm for 
 5. Output Display: Print the processed plaintext and the final generated ciphertext.
 # Output:
 ```
-# Jaisree B
-# 212224230100
 
 key = [[3, 3],
 ]
